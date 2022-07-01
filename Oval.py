@@ -1,7 +1,4 @@
-"""
-Authors = Amri Manssoori
-data = 1400/12/15
-"""
+
 import turtle
 
 tilt = int(input('shib ra vard konid : '))   # Calculation of slope relative to the center
